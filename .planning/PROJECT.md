@@ -32,7 +32,7 @@ The name comes from the Outer Wilds campfire — the moment where the protagonis
 ## The Solution: Two Engines, One Loop
 
 **Engine 1 — The Heatmap (Social Coordination)**
-Friends mark their availability in broad strokes — no event names, no details. The app scans continuously for a Launch Window: when 80%+ of the crew's schedules open simultaneously, it fires a push notification. Privacy is default — friends see *when* you are busy, never *why*.
+Friends mark their availability in broad strokes — no event names, no details. The app scans continuously for a Launch Window: when 80%+ of the crew's schedules open simultaneously, it fires a push notification. Privacy is default — friends see *when* you are busy, never *why*.c
 
 **Engine 2 — The Laboratory (Deep Work)**
 When working, users enter The Lab and select a Science Discipline. Their avatar ship orbits on the group map. Focus time earns Astrophage — the closed-loop currency that fuels social coordination.
