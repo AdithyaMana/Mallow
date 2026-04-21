@@ -154,6 +154,20 @@ Free forever in v1. Build the habit loop first.
 - Schrödinger's Campfire full implementation — v2
 - Any monetization — free forever in v1
 
+## Current Milestone: v1.0 MVP
+
+**Goal:** Ship the complete earn-and-gather loop — friends log focus time, the app detects when the crew is free, fires a push notification, and opens the Campfire.
+
+**Target features:**
+- Heatmap (mark blocks Busy/Free, Ghost Matter Filter)
+- Launch Window detection → push notification → Campfire room
+- Lab sessions (discipline selector, avatar on orbit map)
+- Astrophage economy (earn during focus, pool, spend to unlock hangouts)
+- Fist-Bump haptic, Anti-Burnout 6hr warning
+- Invite-only crew creation, rotating leadership
+- Narrative onboarding (Black Void → Transmission → Calibration Focus)
+- Cosmetic system (ship skins, campfire themes, crew emblems)
+
 ## Key Decisions
 
 | Decision | Rationale | Outcome |
@@ -165,5 +179,22 @@ Free forever in v1. Build the habit loop first.
 | Free forever (v1) | Grow the habit first; monetization follows retention | — Pending |
 | Invite-only social graph | Trust networks over viral growth — protects the campfire feeling | — Pending |
 
+## Evolution
+
+This document evolves at phase transitions and milestone boundaries.
+
+**After each phase transition** (via `/gsd:transition`):
+1. Requirements invalidated? → Move to Out of Scope with reason
+2. Requirements validated? → Move to Validated with phase reference
+3. New requirements emerged? → Add to Active
+4. Decisions to log? → Add to Key Decisions
+5. "What This Is" still accurate? → Update if drifted
+
+**After each milestone** (via `/gsd:complete-milestone`):
+1. Full review of all sections
+2. Core Value check — still the right priority?
+3. Audit Out of Scope — reasons still valid?
+4. Update Context with current state
+
 ---
-*Last updated: 2026-04-20 after initialization*
+*Last updated: 2026-04-21 — Milestone v1.0 MVP started*
