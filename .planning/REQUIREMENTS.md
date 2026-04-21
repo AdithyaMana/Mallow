@@ -87,28 +87,28 @@
 
 | REQ-ID | Phase | Status |
 |--------|-------|--------|
-| FOUND-01 | — | Pending |
-| FOUND-02 | — | Pending |
-| FOUND-03 | — | Pending |
-| CREW-01 | — | Pending |
-| CREW-02 | — | Pending |
-| CREW-03 | — | Pending |
-| CREW-04 | — | Pending |
-| HEAT-01 | — | Pending |
-| HEAT-02 | — | Pending |
-| LAB-01 | — | Pending |
-| LAB-02 | — | Pending |
-| LAB-03 | — | Pending |
-| LAB-04 | — | Pending |
-| APH-01 | — | Pending |
-| APH-02 | — | Pending |
-| NOTIF-01 | — | Pending |
-| NOTIF-02 | — | Pending |
-| NOTIF-03 | — | Pending |
-| CAMP-01 | — | Pending |
-| CAMP-02 | — | Pending |
-| CAMP-03 | — | Pending |
-| ONB-01 | — | Pending |
-| ONB-02 | — | Pending |
-| COS-01 | — | Pending |
-| COS-02 | — | Pending |
+| FOUND-01 | Phase 1 | Pending |
+| FOUND-02 | Phase 1 | Pending |
+| FOUND-03 | Phase 1 | Pending |
+| CREW-01 | Phase 2 | Pending |
+| CREW-02 | Phase 2 | Pending |
+| CREW-03 | Phase 2 | Pending |
+| CREW-04 | Phase 2 | Pending |
+| HEAT-01 | Phase 3 | Pending |
+| HEAT-02 | Phase 3 | Pending |
+| LAB-01 | Phase 4 | Pending |
+| LAB-02 | Phase 4 | Pending |
+| LAB-03 | Phase 4 | Pending |
+| LAB-04 | Phase 4 | Pending |
+| APH-01 | Phase 4 | Pending |
+| APH-02 | Phase 4 | Pending |
+| NOTIF-01 | Phase 5 | Pending |
+| NOTIF-02 | Phase 5 | Pending |
+| NOTIF-03 | Phase 5 | Pending |
+| CAMP-01 | Phase 6 | Pending |
+| CAMP-02 | Phase 6 | Pending |
+| CAMP-03 | Phase 6 | Pending |
+| ONB-01 | Phase 7 | Pending |
+| ONB-02 | Phase 7 | Pending |
+| COS-01 | Phase 7 | Pending |
+| COS-02 | Phase 7 | Pending |
